@@ -10,7 +10,7 @@
 </div>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/anaconda-original.svg" title="Intellij IDEA" alt="Intellij IDEA" width="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij IDEA" alt="Intellij IDEA" width="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter-Lab" alt="Jupyter-Lab" width="50"/>&nbsp;
 </div>div>
