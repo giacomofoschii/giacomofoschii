@@ -30,9 +30,6 @@
 </div>
 
 ### My Stats:
-
-<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=giacomofoschii)](https://git.io/streak-stats)-->
-![GitHub Streak](https://streak-stats.demolab.com/?user=giacomofoschii&theme=dark)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giacomofoschii&layout=compact)
 ![giacomofoschii's GitHub stats](https://github-readme-stats.vercel.app/api?username=giacomofoschii)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giacomofoschii&layout=donut&theme=dark)
