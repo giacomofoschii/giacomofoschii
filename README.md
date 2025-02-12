@@ -13,7 +13,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij IDEA" alt="Intellij IDEA" width="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter-Lab" alt="Jupyter-Lab" width="50"/>&nbsp;
-</div>div>
+</div>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-plain-wordmark.svg" title="Maven" alt="Maven" width="50"/>&nbsp;
